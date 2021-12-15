@@ -1,0 +1,10 @@
+/Users/petejiang/Desktop/VSCode/MyEngine/build/CMakeFiles/rebuild_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/CMakeFiles/edit_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Framework/CMakeFiles/rebuild_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Framework/CMakeFiles/edit_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Framework/Common/CMakeFiles/rebuild_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Framework/Common/CMakeFiles/edit_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Framework/Common/CMakeFiles/Common.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Empty/CMakeFiles/rebuild_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Empty/CMakeFiles/edit_cache.dir
+/Users/petejiang/Desktop/VSCode/MyEngine/build/Empty/CMakeFiles/Empty.dir

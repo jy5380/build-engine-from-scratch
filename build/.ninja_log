@@ -1,0 +1,6 @@
+# ninja log v5
+157	219	1638671236894723607	Empty/Empty	ad91d35962b5d819
+1	133	1638671236808025167	Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.o	b1c4332b71807d1
+1	105	1638671236778930992	Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o	6de7f05fdc4611bf
+106	156	1638671236834116000	Framework/Common/libCommon.a	cc5e108865978294
+1	105	1638671236778642453	Framework/Common/CMakeFiles/Common.dir/main.cpp.o	d02dd18307c4e983

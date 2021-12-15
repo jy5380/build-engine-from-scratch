@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/petejiang/Desktop/VSCode/MyEngine/build",
+  "command": "/usr/bin/clang++ -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Interface -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o Framework/Common/CMakeFiles/Common.dir/BaseApplication.cpp.o -c /Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/BaseApplication.cpp",
+  "file": "/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/BaseApplication.cpp"
+},
+{
+  "directory": "/Users/petejiang/Desktop/VSCode/MyEngine/build",
+  "command": "/usr/bin/clang++ -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Interface -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o Framework/Common/CMakeFiles/Common.dir/GraphicsManager.cpp.o -c /Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/GraphicsManager.cpp",
+  "file": "/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/GraphicsManager.cpp"
+},
+{
+  "directory": "/Users/petejiang/Desktop/VSCode/MyEngine/build",
+  "command": "/usr/bin/clang++ -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Interface -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o Framework/Common/CMakeFiles/Common.dir/main.cpp.o -c /Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/main.cpp",
+  "file": "/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common/main.cpp"
+},
+{
+  "directory": "/Users/petejiang/Desktop/VSCode/MyEngine/build",
+  "command": "/usr/bin/clang++ -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Common -I/Users/petejiang/Desktop/VSCode/MyEngine/Framework/Interface -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -o Empty/CMakeFiles/Empty.dir/EmptyApplication.cpp.o -c /Users/petejiang/Desktop/VSCode/MyEngine/Empty/EmptyApplication.cpp",
+  "file": "/Users/petejiang/Desktop/VSCode/MyEngine/Empty/EmptyApplication.cpp"
+}
+]
